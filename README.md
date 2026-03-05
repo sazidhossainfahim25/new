@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm a Frontend Developer</h1>
-<h3 align="center">I love building beautiful and responsive web applications</h3>
+<h1 align="center">Hi 👋, I'm Sazid</h1>
+<h3 align="center">Frontend Developer | HTML | CSS | JavaScript</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 Learning **JavaScript & React**
-- 💻 Passionate about **Web Development**
-- 🎯 Goal: Become a **Professional Frontend Developer**
+### 👨‍💻 About / Overview
+I am a passionate Frontend Developer with a strong interest in building responsive and user-friendly web applications.  
+Currently learning **JavaScript**, **React**, and modern web technologies to improve my skills.  
+
+I enjoy turning creative ideas into interactive websites and writing clean, maintainable code.  
+My goal is to contribute to meaningful projects and grow as a professional developer.
 
 ---
 
@@ -22,9 +24,6 @@
 🔗 `Add your project link here`  
 
 🔹 **Landing Page Design**  
-🔗 `Add your project link here`  
-
-🔹 **JavaScript Project**  
 🔗 `Add your project link here`  
 
 ---
